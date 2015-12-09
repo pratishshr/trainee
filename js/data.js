@@ -135,7 +135,7 @@
               course: 'Computer Engineering',
               roll: 17,
               link: 'https://github.com/grishmashrestha/leapfrog-b7-js-assignment/tree/roll-17-binod-shrestha',
-              image: 'roll-17-binod-kumar-shrestha.png'
+              image: 'roll-17-binod-shrestha.png'
             },
             {
               name: 'kamal Bahadur Rana',
@@ -151,7 +151,7 @@
               course:'BSc Hons in Computing',
               roll:19,
               link: 'https://github.com/grishmashrestha/leapfrog-b7-js-assignment/tree/roll-19-ruban-dangol',
-              image: 'roll-19-ruban-dangol'
+              image: 'roll-19-ruban-dangol.png'
             },
             {
               name:'Achyut Pokhrel',
