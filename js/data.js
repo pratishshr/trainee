@@ -162,12 +162,12 @@
               image: 'roll-20-achyut-pokhrel.png'
             },
             {
-              name:'Gaurav KC',
+              name:'Gaurab KC',
               college:'Kathmandu Engineering College, Kalimati',
               course:'Computer Engineeing',
               roll:'21',
               link: 'https://github.com/grishmashrestha/leapfrog-b7-js-assignment/tree/roll-21-gaurab-kc',
-              image: 'roll-21-gaurav-kc.png'
+              image: 'roll-21-gaurab-kc.png'
             },
             {
               name:'Prajjwal Raj Kandel',
